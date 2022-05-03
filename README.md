@@ -1,4 +1,4 @@
-### Software Engineer / Full-Stack Developer
+## Software Engineer / Full-Stack Developer
 ![Software Engineer / Full-Stack Developer](https://github.com/T-Ender/T-Ender/blob/main/img/banner.png?raw=true)
 
 Marine Corps veteran and software engineer, certified as a front-end and back-end developer. An excellent problem solver, a self-motivated learner, and a Software technology enthusiast who enjoys solving real-world problems.
