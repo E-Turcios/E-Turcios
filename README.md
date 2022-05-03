@@ -4,7 +4,9 @@
 Marine Corps veteran and software engineer, certified as a front-end and back-end developer. An excellent problem solver, a self-motivated learner, and a Software technology enthusiast who enjoys solving real-world problems.
 
 Skills: Proficient: Javascript ES6, React / Redux, Node, Git, Express, PostgreSQL, C++, C#
+
 Knowledgeable:HTML5, CSS3, Firebase
+
 Familiar: ChakraUI, MaterialUI
 
 - 🔭 I’m currently working on [Easy-Go-List](https://github.com/T-Ender/easy-grocery-list) 
