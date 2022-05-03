@@ -11,7 +11,4 @@ Skills: Proficient: Javascript ES6, React / Redux, Node, Git, Express, PostgreSQ
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/T-Ender)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eduardo-turcios-80b941173//)  
 
-![GitHub metrics](https://metrics.lecoq.io/T-Ender)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T-Ender)  
-
+<center> ![GitHub metrics](https://metrics.lecoq.io/T-Ender) ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T-Ender)</center>
