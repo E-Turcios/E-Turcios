@@ -11,6 +11,7 @@ Familiar: ChakraUI, MaterialUI
 - 😄 Pronouns: He/Him 
 
 ![GitHub metrics](https://metrics.lecoq.io/T-Ender)
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T-Ender)
 
 
