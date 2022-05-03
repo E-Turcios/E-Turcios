@@ -10,7 +10,7 @@ Familiar: ChakraUI, MaterialUI
 - 🔭 I’m currently working on [Easy-Go-List](https://github.com/T-Ender/easy-grocery-list) 
 - 😄 Pronouns: He/Him 
 
-![GitHub metrics](https://metrics.lecoq.io/T-Ender) 
+![GitHub metrics](https://metrics.lecoq.io/T-Ender)
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T-Ender)
 
 
