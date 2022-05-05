@@ -1,7 +1,9 @@
-# Software Engineer / Full-Stack Developer
+## Software Engineer / Full-Stack Developer
 ![Software Engineer / Full-Stack Developer](https://github.com/T-Ender/T-Ender/blob/main/img/banner.png?raw=true)
 
-##Marine Corps veteran and software engineer, certified as a front-end and back-end developer. An excellent problem solver, a self-motivated learner, and a Software technology enthusiast who enjoys solving real-world problems.
+## A little bit more about myself:
+
+Marine Corps veteran and software engineer, certified as a front-end and back-end developer. An excellent problem solver, a self-motivated learner, and a Software technology enthusiast who enjoys solving real-world problems.
 
 - 🔭 I’m currently working on [Easy-Go-List](https://github.com/T-Ender/easy-grocery-list) 
 - 😄 Pronouns: He/Him 
@@ -16,6 +18,7 @@
 <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="sql" width="60" height="30"/> </a></p>
 <br />
 <br />
+
 ![GitHub metrics](https://metrics.lecoq.io/T-Ender)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T-Ender)
