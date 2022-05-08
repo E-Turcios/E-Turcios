@@ -10,7 +10,7 @@ Marine Corps veteran and software engineer, certified as a front-end and back-en
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eduardo-turcios-80b941173/)
 
-## 🛠 :
+## 🛠 Languages and Tools:
 
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
