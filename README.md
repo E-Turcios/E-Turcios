@@ -8,7 +8,7 @@ Marine Corps veteran and software engineer, certified as a front-end and back-en
 
 - 🔭 I’m currently working on [Easy-Go-List](https://github.com/T-Ender/easy-grocery-list)
 - 😄 Pronouns: He/Him
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eduardo-turcios-80b941173/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eduardo-turcios-software-engineer/)
 
 ## 🛠 Languages and Tools:
 
