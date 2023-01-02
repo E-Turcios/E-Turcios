@@ -1,6 +1,6 @@
 ## Software Engineer / Full-Stack Developer
 
-![Software Engineer / Full-Stack Developer](https://github.com/T-Ender/T-Ender/blob/main/img/banner.png?raw=true)
+![Software Engineer / Full-Stack Developer](https://github.com/E-Turcios/E-Turcios/blob/main/img/Github%20Banner%20background%20gif.gif)
 
 ## A little bit more about myself:
 
