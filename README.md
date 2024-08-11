@@ -84,5 +84,3 @@ Marine Corps veteran and software engineer, certified as a front-end and back-en
 ![GitHub metrics](https://metrics.lecoq.io/T-Ender)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=T-Ender)
-
-[<img src='https://raw.githubusercontent.com/T-Ender/T-Ender/1727c0af5943fe522e066f325a00b1c52ae0ff8f/img/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/eduardo-turcios-80b941173//)
