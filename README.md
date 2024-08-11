@@ -4,7 +4,7 @@
 
 ## A little bit more about myself:
 
-Marine Corps veteran and software engineer, certified as a front-end and back-end developer. An excellent problem solver, a self-motivated learner, and a software technology enthusiast who enjoys solving real-world problems.
+Software engineer, certified as a front-end and back-end developer. An excellent problem solver, a self-motivated learner, and a software technology enthusiast who enjoys solving real-world problems.
 
 ## 🛠 Languages and Tools:
 
