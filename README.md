@@ -6,10 +6,6 @@
 
 Marine Corps veteran and software engineer, certified as a front-end and back-end developer. An excellent problem solver, a self-motivated learner, and a software technology enthusiast who enjoys solving real-world problems.
 
-- 🔭 I’m currently working on [Easy-Go-List](https://github.com/T-Ender/easy-go-list),
-- 😄 Pronouns: He/Him
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/eduardo-turcios-software-engineer/)
-
 ## 🛠 Languages and Tools:
 
 <p align="center">
